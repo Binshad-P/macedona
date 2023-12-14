@@ -769,6 +769,9 @@ retina ----- */
 .container-bg{
 	background: url(../img/overlays/01%402x.png);
 }
+.transition{
+	margin-top: 45px;
+}
 .container p.align-just{
 	width: 82%;
 	font-size:1.4em;
