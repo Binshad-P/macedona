@@ -770,6 +770,7 @@ retina ----- */
 	background: url(../img/overlays/01%402x.png);
 }
 .container p.align-just{
+	width: 82%;
 	font-size:1.4em;
 	font-weight:400;
 
