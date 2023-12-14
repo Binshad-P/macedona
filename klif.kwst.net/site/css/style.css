@@ -772,10 +772,16 @@ retina ----- */
 .transition{
 	margin-top: 45px;
 }
+.about-content{
+	margin-top: 110px;
+	
+}
 .container p.align-just{
 	width: 82%;
 	font-size:1.4em;
 	font-weight:400;
+	text-align: justify;
+	
 
 }
 }
