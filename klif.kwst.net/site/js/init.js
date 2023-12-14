@@ -38,7 +38,7 @@ function initKlif() {
 //------------------------------init countdown-----------------------
 
 	$('.countdown').downCount({
-		date: '02/17/2024', // your date
+		date: '01/14/2024', // your date
  
 	});	
 	
